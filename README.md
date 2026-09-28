@@ -1,12 +1,16 @@
 # 🚀 DevSprint — Autonomous Local Multi-Agent Software Engineering & Architecture Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://dev-sprint-xi.vercel.app)
+[![Backend API](https://img.shields.io/badge/Backend_API-Render-46E3B7?style=flat&logo=render&logoColor=white)](https://devsprint-backend-anfy.onrender.com/api/health)
 [![Stack: MERN](https://img.shields.io/badge/Stack-MERN%20%2B%20Ollama-green.svg)](https://ollama.ai)
 [![LLM: Qwen2.5 / DeepSeek](https://img.shields.io/badge/AI%20Engine-Local%20Ollama-purple.svg)](https://ollama.ai)
 [![Security: OWASP Audited](https://img.shields.io/badge/Security-OWASP%20Top%2010%20Scanned-orange.svg)](#-qa--security-audit-agent)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > **DevSprint** is an enterprise-grade, local-first multi-agent AI workspace that transforms natural language prompts into production-ready software architectures, full-stack codebases, interactive system diagrams, security audits, and deployment manifests—with **zero cloud lock-in** and **100% data privacy**.
+
+- 🌐 **Live Web Application**: [https://dev-sprint-xi.vercel.app](https://dev-sprint-xi.vercel.app)
+- ⚙️ **Production Backend API**: [https://devsprint-backend-anfy.onrender.com](https://devsprint-backend-anfy.onrender.com)
 
 ---
 
