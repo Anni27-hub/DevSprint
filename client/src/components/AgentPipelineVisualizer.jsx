@@ -44,7 +44,7 @@ export default function AgentPipelineVisualizer({ isRunning, isCompleted }) {
     <div className="space-y-4">
       <div className="flex items-center justify-between">
         <h3 className="text-xs font-bold uppercase tracking-wider text-slate-400 flex items-center gap-2">
-          <span>🤖</span> Autonomous 5-Agent Sequential Pipeline
+          <Cpu className="w-4 h-4 text-indigo-400" /> Autonomous 5-Agent Sequential Pipeline
         </h3>
         <span className="text-[11px] text-indigo-400 font-mono">Shared Execution Memory Buffer</span>
       </div>

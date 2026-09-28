@@ -13,7 +13,7 @@
 ## 🌟 Key Highlights
 
 - **🔒 100% Privacy & Zero API Costs**: Powered by local open-weight models via **Ollama** (`qwen2.5:1.5b`, `llama3.1`, `deepseek-r1`, `mistral`).
-- **🤖 5-Agent Collaborative Pipeline**: PM, System Architect, Lead Developer, QA & Security Inspector, and DevOps Engineers work in sequence to generate end-to-end deliverables.
+- **⚙️ 5-Agent Collaborative Pipeline**: PM, System Architect, Lead Developer, QA & Security Inspector, and DevOps Engineers work in sequence to generate end-to-end deliverables.
 - **🤝 Human-in-the-Loop (HITL)**: Intercept, modify, and fine-tune requirements after the PM blueprint stage before generating code.
 - **📊 Interactive Mermaid.js Flowcharts**: Dynamic SVG generation for system architecture, entity relationships, and API flow visualization.
 - **🛡️ OWASP Security Scoring**: Automated vulnerability analysis, risk mitigation scoring (0–100), and test suite plan generation.
